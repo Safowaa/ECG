@@ -18,7 +18,7 @@ public class start {
 
 /*double length = 2.5;
 double width = 2.0;
-double area = length * width;
+double area = length * width; rtrtgrtgrtg
 System.out.println("your area is " + area);*/
         
        /* Scanner pop = new Scanner(System.in);
